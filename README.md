@@ -15,7 +15,8 @@ Average case: Aradığımız sayının ortada olması
 Worst case: Aradığımız sayının sonda olması
 Best case: Aradığımız sayının dizinin en başında olması.
 
-ÇÖZÜM
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ÇÖZÜM
 
 1- Dizinin en küçük elemanı bulunur ve dizinin en başındaki eleman ile yer değiştirilir -> [2,27,16,22,18,6]
 2- İkinci en küçük eleman bulunur ve 2. sıra ile yer değiştirilir -> [2,6,16,22,18,27]
